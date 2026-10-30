@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.11"
-  version: "0.1.0"
+  version: "0.1.2"
 
 package:
   name: lume-bmad
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/lume-bmad/lume_bmad-${{ version }}.tar.gz
-  sha256: 92c998d60584e89f7e8bb8ebcd1b5e1979e834140b162dc27a68cedabac5005d
+  sha256: 9c75571ca3e84eaad8d94f15b859ccd540f5aefd9735b6cb6dc6c7b1aa8ee5ec
 
 build:
   number: 0
