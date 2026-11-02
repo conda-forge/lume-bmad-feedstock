@@ -27,6 +27,8 @@ requirements:
     - python >=${{ python_min }}
     - lume-base
     - openpmd-beamphysics
+    - pandas
+    - h5py
 
 tests:
   - python:
